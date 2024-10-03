@@ -1,0 +1,3 @@
+from app import utn_heroes_app
+from UTN_Heroes_Dataset.utn_matrices import  matriz_data_heroes
+utn_heroes_app (matriz_data_heroes)
